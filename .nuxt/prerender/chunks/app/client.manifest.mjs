@@ -1,4 +1,4 @@
-export default {
+const client_manifest = {
   "Navbar.css": {
     "resourceType": "style",
     "file": "Navbar.37867142.css",
@@ -198,4 +198,7 @@ export default {
     "isDynamicEntry": true,
     "src": "virtual:nuxt:/home/schultenbrau/Repos/portfolio-mel/.nuxt/error-component.mjs"
   }
-}
+};
+
+export { client_manifest as default };
+//# sourceMappingURL=client.manifest.mjs.map
