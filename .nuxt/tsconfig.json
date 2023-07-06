@@ -62,6 +62,9 @@
       "vue-demi": [
         "node_modules/nuxt/dist/app/compat/vue-demi"
       ],
+      "#robots": [
+        ".nuxt/robots"
+      ],
       "#vue-router": [
         ".nuxt/vue-router"
       ],
