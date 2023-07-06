@@ -4,7 +4,7 @@
     <h1 class="top-name">Mel Raeven</h1>
     <img
       class="top-img"
-      alt="image Mel"
+      alt="portret photo of Mel Raeven"
       src="../assets/portfolio_profile.png"
     />
     <p class="top-intro">

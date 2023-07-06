@@ -1,12 +1,12 @@
 <template>
+    <Head>
+        <Title>Mel's projects</Title>
+        <Meta name="description" content="This is a list of all projects made by Mel Raeven"/>
+    </Head>
     <Navbar></Navbar>
     <section class="projects">
         <h1 class="projects-h1"> Projects </h1>
         <div class="project-list">
-            <!-- <ProjectCard projectcolor="#56FC9A" ProjectName="Mumble" ProjectIntro="Micro service chat app"></ProjectCard>
-            <ProjectCard projectcolor="#E6323F" ProjectName="Semester 3" ProjectIntro="Full stack app">
-            </ProjectCard>
-            <ProjectCard projectcolor="#56FC9A" ProjectName="Mumble" ProjectIntro="Micro service chat app"></ProjectCard> -->
             <ProjectCard v-for="p in projectList" :key="p.id" :ProjectName="p.name" :IMG="p.img" :ProjectIntro="p.intro"
                 :projectcolor="p.color" :sluglink="p.slug">
             </ProjectCard>

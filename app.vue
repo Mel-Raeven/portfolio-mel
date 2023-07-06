@@ -1,7 +1,7 @@
 <template>
   <Head>
     <Title>Mel Raeven</Title>
-    <Meta name="portfolio" content="Mel Raeven" />
+    <Meta name="description" content="Mel Raeven's portfolio website that show all projects made and descriptions of them." />
   </Head>
   <NuxtLayout>
     <NuxtPage />
