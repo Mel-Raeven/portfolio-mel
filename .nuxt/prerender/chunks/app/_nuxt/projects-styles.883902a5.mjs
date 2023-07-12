@@ -1,6 +1,0 @@
-const projects_vue_vue_type_style_index_0_scoped_0ea64c49_lang = '[data-v-0ea64c49]:root{--heading-font:"reklame-script",sans-serif;--heading-weight:700;--normal-font:"franklin-gothic-urw-cond",sans-serif;--normal-weight:400;--dark-grey:#1a1d2e;--light-grey:#1f2232;--white:#fff;--red:#e6323f;--green:#56fc9a;--projectcolor:#fff}.projects[data-v-0ea64c49]{margin:20px 0 0;width:100%}.projects-h1[data-v-0ea64c49]{animation:slideUpFade-0ea64c49 .8s ease-out;color:#fff;font-family:var(--heading-font);font-size:50px;font-weight:var(--heading-weight);margin:0 0 0 40px}@keyframes slideUpFade-0ea64c49{0%{opacity:0;transform:translateY(50%)}to{opacity:1;transform:translateY(0)}}.project-list[data-v-0ea64c49]{display:flex;flex-direction:column;gap:40px;margin-bottom:40px;margin-left:40px;margin-top:30px}@media screen and (max-width:768px){.projects-h1[data-v-0ea64c49]{font-size:36px}.project-list[data-v-0ea64c49]{display:flex;flex-direction:row;flex-wrap:wrap;gap:38px;justify-content:center;margin-bottom:40px;margin-left:0;margin-top:30px}}';
-
-const projectsStyles_883902a5 = [projects_vue_vue_type_style_index_0_scoped_0ea64c49_lang];
-
-export { projectsStyles_883902a5 as default };
-//# sourceMappingURL=projects-styles.883902a5.mjs.map
