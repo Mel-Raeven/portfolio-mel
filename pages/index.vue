@@ -38,7 +38,7 @@
         </a>
         <a
           class="socialmedia-link"
-          href="https://github.com/ScaryDemon"
+          href="https://github.com/Mel-Raeven"
           target="_blank"
         >
           <img

@@ -9,6 +9,7 @@ This website is a portfolio that shows the work of Mel Raeven.
 
 to build the website, run the following command:
 - npm run build
+
 ## Authors
 
 - [Iris Roemermann](https://github.com/xRedRosee)
