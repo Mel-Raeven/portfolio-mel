@@ -3,7 +3,7 @@
         <NuxtLink to="/" class="nav-name">Mel Raeven</NuxtLink>
         <ul class="nav-list">
             <li class="nav-item">
-                <NuxtLink to="/projects" class="nav-text">Portfolio</NuxtLink>
+                <NuxtLink to="https://blog.melraeven.nl" class="nav-text">Blog</NuxtLink>
             </li>
             <li class="nav-item">
                 <NuxtLink to="/#contact" class="nav-text">Contact</NuxtLink>
@@ -34,7 +34,7 @@ export default {
             const hamburger = document.querySelector('.hamburgermenu');
 
             if (this.hamburgerOpen == false) {
-                // open the hamburger        
+                // open the hamburger
                 navBar.classList.toggle("active");
                 navList.classList.toggle("active");
                 hamburger.classList.toggle("active");
